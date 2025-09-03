@@ -49,9 +49,6 @@ FROM compliance.ccpa_consumer_request_impact(
 
 More detailed examples are available in `examples/basic_usage.sql`, `executive_reporting.sql`, and `compliance_workflows.sql`.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or pull request to propose changes. For bugs and feature requests, use the templates in `.github/ISSUE_TEMPLATE` to ensure all relevant details are included.
 
 ## License
 
